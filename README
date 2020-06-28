@@ -1,0 +1,1 @@
+LHCStatus is now deprecated. It did not survive to "https" (instead of http) to retrieve LHC machine informations from CERN.
